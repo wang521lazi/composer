@@ -1,0 +1,14 @@
+{
+    "name": "wangyong/composer",
+    "description": "test composer",
+    "type": "project",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "wang",
+            "email": "wang521lazi@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
